@@ -1,0 +1,17 @@
+.errorText {
+    color: red;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+.error {
+    border-color: red;    
+
+}
+
+.fieldContainer {
+    display: flex;
+    /* flex-direction: row-reverse; */
+    align-items: center;
+    gap: 10px;
+}

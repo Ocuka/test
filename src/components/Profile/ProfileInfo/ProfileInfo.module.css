@@ -1,0 +1,38 @@
+.descriptionBlock {
+ display: flex;
+ justify-content: space-between;
+ padding: 10px;
+ white-space: nowrap;
+/* width: 100%;*/
+}
+
+.userData {
+ display: flex;
+ gap: 10px;
+}
+
+.userData img {
+max-height: 160px;
+}
+
+.description {
+ display: flex;
+ flex-direction: column;
+ justify-content: space-around;
+ gap: 15px;
+}
+
+.contacts {
+ justify-self: right ;
+}
+
+.userLink {
+ text-decoration: none;
+ color: black;
+ cursor: pointer;
+}
+
+.userLink:hover {
+ text-decoration: underline;
+ color: blue;
+}

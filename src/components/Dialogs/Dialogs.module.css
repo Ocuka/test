@@ -1,0 +1,98 @@
+.dialogs {
+ background-color: #A2E2FF;
+ display:grid;
+ grid-template-columns: 2fr 10fr;
+ height: 100%;
+}
+
+.dialogsItems {
+ display: flex;
+ flex-direction: column;
+ gap: 10px;
+ padding: 10px;
+ border-right: solid rgba(0, 0, 255, 0.05) 2px;
+}
+
+.dialogsItems .active{
+ color: red;
+ border-radius: 10px;
+}
+
+.messagesBox {
+ display: flex;
+ flex-direction: column;
+ justify-content: space-between;
+ padding: 10px;
+}
+
+.messages {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+   }
+
+.myMsg {
+ text-align: right;
+}
+
+.messageBlock {
+ display: flex;
+ gap: 10px;
+}
+
+.myMessageBlock {
+ display: flex;
+ gap: 10px;
+ flex-direction: row-reverse;
+}
+
+.dialog a {
+ padding: 0 5px;
+ display: flex;
+ justify-content: space-between;
+ align-items: center;
+ color: greenyellow;
+ text-decoration: none;
+}
+
+.ava {
+ max-height: 30px;
+ border-radius: 50%;
+}
+
+.dialog .active{
+ box-shadow: rgba(255, 255, 255, 0.1) 10px 10px 10px,
+             rgba(255, 255, 255, 0.1) -10px -10px 10px,
+             rgba(255, 255, 255, 0.1) -10px 10px 10px,
+             rgba(255, 255, 255, 0.1) 10px -10px 10px;
+}
+
+.dialog a.active{
+ color: red;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    /* align-items: flex-end; */
+}
+
+/* .errorContainer {
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    gap: 10px;
+}
+
+
+
+.requiredText {
+    color: red;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+.required {
+    border-color: red;    
+
+} */

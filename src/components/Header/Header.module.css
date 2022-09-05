@@ -1,0 +1,37 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 5px;
+  grid-area: header;
+  background-color: #83AFFF;
+}
+
+.header img {
+  max-height: 50px;
+}
+
+.loginBlock {
+  display: flex;
+  gap: 10px;
+}
+
+
+.loginBlock a {
+  color: black;
+  text-decoration: none;
+}
+
+.loginBlock a:hover {
+  text-decoration: underline;
+}
+
+.logout {
+  color: black;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.logout:hover {
+  text-decoration: underline;
+}

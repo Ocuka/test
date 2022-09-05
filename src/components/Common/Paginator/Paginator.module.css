@@ -1,0 +1,12 @@
+.selectedPage {
+    
+    border-radius: 25%;
+    background-color: black;
+    color: yellow;
+}
+
+.paginator {
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+}
