@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/test/static/css/main.c6b27fbc.css",
+    "main.js": "/test/static/js/main.50e72a74.js",
+    "static/css/672.6967f9ce.chunk.css": "/test/static/css/672.6967f9ce.chunk.css",
+    "static/js/672.bf0b90b3.chunk.js": "/test/static/js/672.bf0b90b3.chunk.js",
+    "static/css/815.3e40c651.chunk.css": "/test/static/css/815.3e40c651.chunk.css",
+    "static/js/815.b7d1979b.chunk.js": "/test/static/js/815.b7d1979b.chunk.js",
+    "static/js/787.28cb0dcd.chunk.js": "/test/static/js/787.28cb0dcd.chunk.js",
+    "static/media/Fidget-spinner.gif": "/test/static/media/Fidget-spinner.29181c59a23df5c07450.gif",
+    "static/media/user_img.jpg": "/test/static/media/user_img.f0dec4911b3cbc17f782.jpg",
+    "index.html": "/test/index.html",
+    "main.c6b27fbc.css.map": "/test/static/css/main.c6b27fbc.css.map",
+    "main.50e72a74.js.map": "/test/static/js/main.50e72a74.js.map",
+    "672.6967f9ce.chunk.css.map": "/test/static/css/672.6967f9ce.chunk.css.map",
+    "672.bf0b90b3.chunk.js.map": "/test/static/js/672.bf0b90b3.chunk.js.map",
+    "815.3e40c651.chunk.css.map": "/test/static/css/815.3e40c651.chunk.css.map",
+    "815.b7d1979b.chunk.js.map": "/test/static/js/815.b7d1979b.chunk.js.map",
+    "787.28cb0dcd.chunk.js.map": "/test/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6b27fbc.css",
+    "static/js/main.50e72a74.js"
+  ]
+}
