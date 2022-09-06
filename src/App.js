@@ -75,7 +75,7 @@ const AppContainer = connect(mapStateToProps, { initializeApp, getAuthUserProfil
 
 const MyJSApp = (props) => {
     return <Provider store={store}>
-        <BrowserRouter>
+        <BrowserRouter basename={process.env.PUBLIC_URL}>
             <AppContainer />
         </BrowserRouter>
     </Provider>
